@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  ZeroDuplicate
+
+  Created by trivalent on 21/02/19.
+  Copyright © 2019 trivalent. All rights reserved.
+*/
+
+APP_NAME = "Duplicate Cleaner";
+SELECT_SCAN_MODE = "Select Your Scan Mode";
+SELECT_SCAN_DETAIL = "Then start scan to find duplicates";
+BTN_SCAN_SIMILAR = "Scan Similar Photo";
+BTN_SCAN_EXACT = "Scan Exact Photo";
+BTN_START_SCAN = "Start Scan";
+BTN_STOP_SCAN = "Stop";
+BTN_RESTART_SCAN = "Rescan";
